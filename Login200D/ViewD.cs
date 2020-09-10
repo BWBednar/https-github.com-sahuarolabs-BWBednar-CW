@@ -69,7 +69,7 @@ namespace Login200D
         /// <param name="e"></param>
         private void tbUserName_TextChanged(object sender, EventArgs e)
         {
-            controller.handleEvents(State.GOTUSERNAME, "");
+            inHandler(State.GOTUSERNAME, "");
         }
 
         /// <summary>
@@ -95,7 +95,7 @@ namespace Login200D
             String un = tbUserName.Text;
             String up = tbPassword.Text;
             Console.WriteLine(un + " " + up);
-            controller.handleEvents(State.GOTPASSWORD, un + ":" + up);
+            inHandler(State.GOTPASSWORD, un + ":" + up);
         }
 
         /// <summary>

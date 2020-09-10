@@ -1,0 +1,10 @@
+C:\Users\Brandon Bednar\source\repos\BWBednar-CW\LabWork\LogIn200\Login200D\bin\Debug\Login200D.exe.config
+C:\Users\Brandon Bednar\source\repos\BWBednar-CW\LabWork\LogIn200\Login200D\bin\Debug\Login200D.exe
+C:\Users\Brandon Bednar\source\repos\BWBednar-CW\LabWork\LogIn200\Login200D\bin\Debug\Login200D.pdb
+C:\Users\Brandon Bednar\source\repos\BWBednar-CW\LabWork\LogIn200\Login200D\obj\Debug\Login200D.csprojAssemblyReference.cache
+C:\Users\Brandon Bednar\source\repos\BWBednar-CW\LabWork\LogIn200\Login200D\obj\Debug\Login200D.Login200D.resources
+C:\Users\Brandon Bednar\source\repos\BWBednar-CW\LabWork\LogIn200\Login200D\obj\Debug\Login200D.Properties.Resources.resources
+C:\Users\Brandon Bednar\source\repos\BWBednar-CW\LabWork\LogIn200\Login200D\obj\Debug\Login200D.csproj.GenerateResource.cache
+C:\Users\Brandon Bednar\source\repos\BWBednar-CW\LabWork\LogIn200\Login200D\obj\Debug\Login200D.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Bednar\source\repos\BWBednar-CW\LabWork\LogIn200\Login200D\obj\Debug\Login200D.exe
+C:\Users\Brandon Bednar\source\repos\BWBednar-CW\LabWork\LogIn200\Login200D\obj\Debug\Login200D.pdb
